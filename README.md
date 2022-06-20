@@ -1,6 +1,5 @@
 # team-tryit
 
-
 ### git branch 전략
 - 기능 개발일 경우 : feature/#[이슈번호]
 - 리팩토링인 경우 : refactor/#[이슈번호]
